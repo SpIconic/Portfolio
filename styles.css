@@ -241,7 +241,7 @@ section {
   min-height: 100vh;
   height: 100%;
   width: 100%;
-  background-image:url(img/bb3.jpg);
+  background-image:url(bb3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
@@ -454,7 +454,7 @@ section {
 .about1{
   display: flex;
   justify-content: center;
-  background-image:url(img/bv9.jpg);
+  background-image:url(bv9.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   align-items: center;
@@ -539,7 +539,7 @@ section {
 
 .skills {
   background-color: #2b1338;
-  background-image:url(img/bv6.jpg);
+  background-image:url(bv6.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -692,7 +692,7 @@ section {
 }
 .projects{
   height: 100%;
-  background-image:url(img/bv7.jpg);
+  background-image:url(bv7.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -801,7 +801,7 @@ section {
 .contacts{
   background-color: var(--secon-bg-color);
   width: 100%;
-  background-image:url(img/bv4.jpg);
+  background-image:url(bv4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -890,19 +890,19 @@ footer a {
 @media(max-width:768px){
   
   .home1{
-    background-image:url(img/hh13.png);
+    background-image:url(hh13.png);
   }
   .about1{
-    background-image:url(img/hh12.png);
+    background-image:url(hh12.png);
   }
   .skills{
-    background-image:url(img/hh11.png);
+    background-image:url(hh11.png);
   }
   .projects{
-    background-image:url(img/hh8.jpg);
+    background-image:url(hh8.jpg);
   }
   .contacts{
-    background-image:url(img/hc7.png);
+    background-image:url(hc7.png);
   }
   footer{
     display: none;
